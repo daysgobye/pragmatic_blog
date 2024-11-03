@@ -1,8 +1,10 @@
 ---
 import Button from './Button.astro';
 import siteConfig from '../data/site-config';
+import { undefined } from 'astro:schema';
 
-const subscribe = siteConfig.subscribe;
+// const subscribe = siteConfig.subscribe;
+const subscribe = { formUrl: undefined, title: 'sub', text: '' };
 
 const { class: className } = Astro.props;
 ---

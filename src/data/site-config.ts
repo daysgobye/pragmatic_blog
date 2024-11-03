@@ -71,9 +71,9 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
+        title: 'I love reading content feeds and hate seeing ai garbage in there. This is how Im fixing it, one post at a time.',
         text: `
-Hey, I’m Cole. I own Boardsource, but when I’m not doing that, I’m probably messing around with programming and making terrible apps—that’s my version of video games. I’m really into custom keyboards, and I think AI is gonna pay off in the long run, even though it’s gonna be a bit of a bumpy ride.
+Hey, I’m Cole. I co-own Boardsource, but when I’m not doing that, I’m probably messing around with programming and making terrible apps—that’s kinda my version of video games. I’m really into custom keyboards obvs.
 `,
         image: {
             src: '/hero.jpeg',

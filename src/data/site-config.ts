@@ -75,10 +75,10 @@ const siteConfig: SiteConfig = {
         text: `
 Hey, I’m Cole. I co-own Boardsource, but when I’m not doing that, I’m probably messing around with programming and making terrible apps—that’s kinda my version of video games. I’m really into custom keyboards obvs.
 `,
-        image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
-        },
+        // image: {
+        //     src: '/hero.jpeg',
+        //     alt: 'A person sitting at a desk in front of a computer'
+        // },
         actions: [
             {
                 text: 'Get in Touch',

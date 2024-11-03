@@ -1,47 +1,46 @@
 ---
-title: The Advantages & Disadvantages of Working from Home
-excerpt: In recent years, the way we work has undergone a significant transformation, largely due to advancements in technology and changing attitudes toward work-life balance. One of the most notable changes has been the rise of remote work, allowing employees to work from the comfort of their own homes.
-publishDate: 'Aug 5 2023'
+title: The Pragmatic Tupperware
+excerpt:
+publishDate: 'Nov 3 2024'
 tags:
-  - Guide
+  - product
 seo:
   image:
-    src: '/post-1.jpg'
+    src: '/tupperware3.jpg'
     alt: A person standing at the window
 ---
 
-![A person standing at the window](/post-1.jpg)
+![old tupperware on the left delicontainers on the right](/tupperware3.jpg)
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+## I've found the perfect Tupperware. ✅
 
-In recent years, the way we work has undergone a significant transformation, largely due to advancements in technology and changing attitudes toward work-life balance. One of the most notable changes has been the rise of remote work, allowing employees to work from the comfort of their own homes. While this shift has brought about many benefits, it has also introduced its fair share of challenges. Let's explore the advantages and disadvantages of working from home.
+Like most 20-somethings transitioning into their 30s, I owned a hodgepodge of Tupperware, ranging from cheap IKEA sets to nicer storage containers not given back to older family members after leaving some holiday event. My collection was like I assume yours is very large and... very miss matched. While a few pieces were used regularly for one reason or another, the majority languished taking up a whole cabinet, rarely used because it was to hard to find a lid or the one lid it did have was a bit warped, and would not seal.
 
-## Advantages of Working from Home
+As I unpacked during a recent move, I pondered this problem, and turned my pragmatic brain on looking at a tub of salsa I bought from a local store I thought.... these are as nice as any of my IKEA storage containers, but are also given away with the cost of the food. They cant cost that much. Lets see, I was right. They are super cheap around $20-$50 for a large set.. As I was going to try making my own salsa ( this was right at the start of a huge salsa phase that I'm still in) I figured I would buy a pack and at least use it for my new salsas. Its been months now and I use deli containers as my only food storage and I think you should too. Let me go into some of the pragmatic reasons behind this and by the end I think you will also agree that these might be the very best food storage option out there.
 
-1. **Flexibility:** One of the most significant advantages of remote work is the flexibility it offers. Employees can often set their own hours, which can be particularly beneficial for those with family responsibilities or other commitments.
+**The One-Lid rule them all**
 
-2. **Reduced Commute:** Eliminating the daily commute not only saves time but also reduces stress and expenses associated with transportation. This can lead to better mental health and increased job satisfaction.
+One of the biggest game-changers for me is the universal lid. No more trying out lids to find the right lid or realizing that out simply don't have a lid of this container you just dirtied. Theirs only a single lid size, making life so much easier.
 
-3. **Cost Savings:** Working from home can result in significant cost savings. Employees can save money on transportation, work attire, and daily meals, which can have a positive impact on their overall financial well-being.
+**Size matters I swear**
 
-4. **Increased Productivity:** Many people find that they are more productive when working from home. The absence of office distractions and the ability to create a personalized work environment can lead to improved focus and efficiency.
+Deli containers come in a few sizes 8,16,32oz so theirs a good size for you there. If you hade a huge pot of curry use two 32oz containers and your good.
 
-5. **Work-Life Balance:** Remote work allows for better work-life balance. Employees can better manage their personal and professional lives, leading to reduced burnout and increased job satisfaction.
+**Rock solid design**
 
-> Your ability to discipline yourself to set clear goals and then work toward them every day will do more to guarantee your success than any other single factor.
+Deli containers have super tight-fitting lids that keep your food on the inside, even during bumpy car rides or accidental falls from fridge shelfs.
 
-## Disadvantages of Working from Home
+**Budget-Friendly and Eco-Friendly**
 
-1. **Isolation:** Remote work can be lonely. The absence of coworkers and face-to-face interaction can lead to feelings of isolation and loneliness, which may negatively impact mental health.
+One of the my favorite things about deli containers is their affordability. So you don't do this because your a real adult but in my life I save left overs, and maybe some times forget about them, and keep forgetting about them. Then a few months later I have a bio-hazard bomb on my hands that I really don't want to open and clean out just to get back some dumb container. Fear not just throw the whole thing out.
 
-2. **Difficulty in Communication:** Effective communication can be a challenge when working remotely. Misunderstandings, lack of clear communication, and delayed responses can hinder teamwork and collaboration.
+**Larp as a Pro**
 
-3. **Work-Life Boundaries:** While remote work can improve work-life balance, it can also blur the lines between work and personal life. It can be challenging to establish clear boundaries, leading to overwork and burnout.
+When I'm gifting some of my salsa's to friends and family, I love that the deli containers look store bought. It makes me look like I'm a salsa Pro just because I use the same container the Pros do use. They present food beautifully and make a great impression. Plus, there's no need to worry about getting them back. People don't ever thing " I have to remember to give this back to Cole".
 
-4. **Technology Issues:** Technical problems, such as internet connectivity issues or software glitches, can disrupt work and cause frustration.
+**Meal Prep Made Easy**
 
-5. **Distractions:** Working from home can be riddled with distractions, ranging from household chores to noisy neighbors. Maintaining focus can be a constant struggle for some.
+Deli containers are pretty good for meal prep too. While the little black and clear rectangle containers are the go to. I like to portion out my left overs as little lunches making a layer cake of lunch (little bit of rice on the bottom, then some curry and some grilled chicken on top). Easy and if I was going to use separate containers anyway this saves me some work eating it next time.
 
-6. **Career Growth:** Some employees may feel that working remotely limits their opportunities for career advancement, as they may have less visibility within the organization.
-
-While it offers flexibility, cost savings, and improved work-life balance, it can also lead to isolation, communication challenges, and distractions. The key to successful remote work lies in finding a balance that suits individual preferences and addressing potential drawbacks through effective communication, time management, and self-discipline. As remote work continues to evolve, understanding and adapting to these advantages and disadvantages will be crucial for both employees and employers.
+If you're looking to simplify your kitchen and elevate your food storage game, I highly recommend giving deli containers a try. You won't regret it!
+Here's a [amazon link](https://www.amazon.com/AOZITA-Containers-Airtight-Dishwasher-Microwave/dp/B0CSJZ48HS?crid=1ACNY69P86Q8N&dib=eyJ2IjoiMSJ9.z49QYinu0pxPqehxicI957OmkagmRerHKN8G8xLDdbUErNJfXlnOG7bUkzUOHgv0ImsiVJZwpAirIiMlGZ_ZUktY_c_aity57-myIfhtLv9H9AIcK5mMJSAZgsU6N3msBvcPnfN-g_NIahSU83LQ7pZVttrOXRxZZhmLqKrwKVFmeMV20QGycyev4QHDe9iA0MTjhGoUZQo1ildCjHrevMq7SMvPltQJAnxMBAlWoVG8J-ZQK6LzMpeImgFVo9WUp8egOzb9whwByawnkAbhzPPM0cUcD_kG1vy7l2lZD2U.bbbgYJhiJhAlEcy5kE4bw2EC4PDFnWg0pMBIBRumnpw&dib_tag=se&keywords=deli+containers&qid=1730662930&sprefix=deli%2Caps%2C255&sr=8-5) to the ones I have and use. And here is a link to [a way better post](https://www.zestedlemon.com/a-simple-but-life-changing-tupperware-update) saying the same thing.

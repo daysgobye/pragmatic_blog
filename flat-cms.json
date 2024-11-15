@@ -1,1 +1,1 @@
-{"newFileType":".md","frontMatterFields":[{"title":"title","input":"shortText"},{"title":"excerpt","input":"longText"},{"title":"featured","input":"bool"},{"title":"publishDate","input":"shortText"},{"title":"Tags","input":"array"},{"title":"seo","input":"filePath"}]}
+{"newFileType":".md","frontMatterFields":[{"title":"title","input":"shortText"},{"title":"excerpt","input":"longText"},{"title":"featured","input":"bool"},{"title":"publishDate","input":"shortText"},{"title":"tags","input":"array"},{"title":"seo","input":"longText"}]}

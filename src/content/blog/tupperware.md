@@ -1,19 +1,34 @@
----
-title: Pragmatic Tupperware
-excerpt: Ditch the mismatched Tupperware! Why deli containers are the ultimate food storage solution. They're cheap, stackable, and leak-proof. Plus, one lid fits all containers! Learn more about the magic of deli containers and upgrade your kitchen today.
-publishDate: 'Nov 3 2024'
-isFeatured: true
-tags:
-  - product
-seo:
-  image:
-    src: '/tupperware3.jpg'
-    alt: A person standing at the window
----
 
+            ---
+            title: Pragmatic Tupperware
+excerpt: "                                    Ditch the mismatched Tupperware!
+  Why deli containers are the ultimate food storage solution. They're cheap,
+  stackable, and leak-proof. Plus, one lid fits all containers! Learn more about
+  the magic of deli containers and upgrade your kitchen today.\r
+
+  \                                "
+featured: on
+publishDate: Nov 3 2024
+tags: product
+seo: "                                    {\r
+
+  \  \"image\": {\r
+
+  \    \"src\": \"/tupperware3.jpg\",\r
+
+  \    \"alt\": \"A person standing at the window\"\r
+
+  \  }\r
+
+  }\r
+
+  \                                "
+
+            ---
+            
 ![old tupperware on the left delicontainers on the right](/tupperware3.jpg)
 
-## I've found the perfect Tupperware. ✅
+## I've found the perfect Tupperware. &#9989;
 
 Like most 20-somethings transitioning into their 30s, I owned a hodgepodge of Tupperware, ranging from cheap IKEA sets to nicer storage containers not given back to older family members after leaving some holiday event. My collection was like I assume yours is very large and... very miss matched. While a few pieces were used regularly for one reason or another, the majority languished taking up a whole cabinet, rarely used because it was to hard to find a lid or the one lid it did have was a bit warped, and would not seal.
 
@@ -45,3 +60,5 @@ Deli containers are pretty good for meal prep too. While the little black and cl
 
 If you're looking to simplify your kitchen and elevate your food storage game, I highly recommend giving deli containers a try. You won't regret it!
 Here's a [amazon link](https://www.amazon.com/AOZITA-Containers-Airtight-Dishwasher-Microwave/dp/B0CSJZ48HS?crid=1ACNY69P86Q8N&dib=eyJ2IjoiMSJ9.z49QYinu0pxPqehxicI957OmkagmRerHKN8G8xLDdbUErNJfXlnOG7bUkzUOHgv0ImsiVJZwpAirIiMlGZ_ZUktY_c_aity57-myIfhtLv9H9AIcK5mMJSAZgsU6N3msBvcPnfN-g_NIahSU83LQ7pZVttrOXRxZZhmLqKrwKVFmeMV20QGycyev4QHDe9iA0MTjhGoUZQo1ildCjHrevMq7SMvPltQJAnxMBAlWoVG8J-ZQK6LzMpeImgFVo9WUp8egOzb9whwByawnkAbhzPPM0cUcD_kG1vy7l2lZD2U.bbbgYJhiJhAlEcy5kE4bw2EC4PDFnWg0pMBIBRumnpw&dib_tag=se&keywords=deli+containers&qid=1730662930&sprefix=deli%2Caps%2C255&sr=8-5) to the ones I have and use. And here is a link to [a way better post](https://www.zestedlemon.com/a-simple-but-life-changing-tupperware-update) saying the same thing.
+
+            

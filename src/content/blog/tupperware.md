@@ -1,13 +1,13 @@
-
 ---
 title: Pragmatic Tupperware
 excerpt: Ditch the mismatched Tupperware! Why deli containers are the ultimate
   food storage solution. They're cheap, stackable, and leak-proof. Plus, one lid
   fits all containers! Learn more about the magic of deli containers and upgrade
   your kitchen today.
-featured: false
 publishDate: 'Nov 3 2024'
-tags: product
+isFeatured: true
+tags:
+  - product
 seo:
   image:
     src: /tupperware3.jpg

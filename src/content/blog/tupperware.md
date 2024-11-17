@@ -6,7 +6,8 @@ excerpt: Ditch the mismatched Tupperware! Why deli containers are the ultimate
   your kitchen today.
 featured: false
 publishDate: Nov 3 2024
-tags: product
+tags:
+  - product
 seo:
   image:
     src: /tupperware3.jpg

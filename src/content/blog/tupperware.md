@@ -14,10 +14,10 @@ seo:
     alt: A person standing at the window
 
 ---
-                        
+                                    
 ![old tupperware on the left delicontainers on the right](/tupperware3.jpg)
 
-## I've found the perfect Tupperware. &#9989;
+## I've found the perfect Tupperware.&#9989;
 
 Like most 20-somethings transitioning into their 30s, I owned a hodgepodge of Tupperware, ranging from cheap IKEA sets to nicer storage containers not given back to older family members after leaving some holiday event. My collection was like I assume yours is very large and... very miss matched. While a few pieces were used regularly for one reason or another, the majority languished taking up a whole cabinet, rarely used because it was to hard to find a lid or the one lid it did have was a bit warped, and would not seal.
 
@@ -52,4 +52,5 @@ Here's a [amazon link](https://www.amazon.com/AOZITA-Containers-Airtight-Dishwas
 
             
 
+            
             

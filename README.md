@@ -1,27 +1,35 @@
-# Dante - Astro & Tailwind CSS Theme by justgoodui.com
+---
+title: undefined
+excerpt: ""
+featured: false
+publishDate: undefined
+seo: ""
+
+---
+# in case any one cares
 
 Dante is a single-author blog and portfolio theme for Astro.js. Featuring a minimal, slick, responsive and content-focused design. For more Astro.js themes please check [justgoodui.com](https://justgoodui.com/).
 
 
 [![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/JustGoodUI/dante-astro-theme)
 
-If you click this☝️ button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
+If you click this&#9757;&#65039; button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
 
 ## Theme Features:
 
-- ✅ Dark and light color mode
-- ✅ Hero section with bio
-- ✅ Portfolio collection
-- ✅ Pagination support
-- ✅ Post tags support
-- ✅ Subscription form
-- ✅ View transitions
-- ✅ Tailwind CSS
-- ✅ Mobile-first responsive layout
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+- &#9989; Dark and light color mode
+- &#9989; Hero section with bio
+- &#9989; Portfolio collection
+- &#9989; Pagination support
+- &#9989; Post tags support
+- &#9989; Subscription form
+- &#9989; View transitions
+- &#9989; Tailwind CSS
+- &#9989; Mobile-first responsive layout
+- &#9989; SEO-friendly with canonical URLs and OpenGraph data
+- &#9989; Sitemap support
+- &#9989; RSS Feed support
+- &#9989; Markdown & MDX support
 
 ## Template Integrations
 
@@ -35,21 +43,21 @@ If you click this☝️ button, it will create a new repo for you that looks exa
 Inside of Dante Astro theme, you'll see the following folders and files:
 
 ```text
-├── public/
-├── src/
-│   ├── components/
-│   ├── content/
-│   ├── data/
-│   ├── icons/
-│   ├── layouts/
-│   ├── pages/
-│   ├── styles/
-│   └── utils/
-├── astro.config.mjs
-├── package.json
-├── README.md
-├── tailwind.config.cjs
-└── tsconfig.json
+&#9500;&#9472;&#9472; public/
+&#9500;&#9472;&#9472; src/
+&#9474;�� &#9500;&#9472;&#9472; components/
+&#9474;�� &#9500;&#9472;&#9472; content/
+&#9474;�� &#9500;&#9472;&#9472; data/
+&#9474;�� &#9500;&#9472;&#9472; icons/
+&#9474;�� &#9500;&#9472;&#9472; layouts/
+&#9474;�� &#9500;&#9472;&#9472; pages/
+&#9474;�� &#9500;&#9472;&#9472; styles/
+&#9474;�� &#9492;&#9472;&#9472; utils/
+&#9500;&#9472;&#9472; astro.config.mjs
+&#9500;&#9472;&#9472; package.json
+&#9500;&#9472;&#9472; README.md
+&#9500;&#9472;&#9472; tailwind.config.cjs
+&#9492;&#9472;&#9472; tsconfig.json
 ```
 
 Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.

@@ -74,6 +74,7 @@ const siteConfig: SiteConfig = {
         title: 'I love reading content feeds and hate seeing ai garbage in there. This is how Im fixing it, one post at a time.',
         text: `
 Hey, I’m Cole. I co-own Boardsource, but when I’m not doing that, I’m probably messing around with programming and making terrible apps—that’s kinda my version of video games. I’m really into custom keyboards obvs.
+Right now I am trying to get better at finishing things. I Built a lot of stuff but don't share it, this blog is my way of finishing things and telling people about them.
 `,
         // image: {
         //     src: '/hero.jpeg',

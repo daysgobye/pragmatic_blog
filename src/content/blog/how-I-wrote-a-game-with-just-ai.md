@@ -108,7 +108,7 @@ Creating [*Nyarlathotep: A Visual Novel*](https://nyarlathotep.pages.dev/) I use
 **Why I Used It:** ChatGPT was the backbone of the project. I used it to craft prompts, process text, and generate Ren'Py code.  
 
 **Alternatives:** 
-* (Gemini)[https://gemini.google.com/chat] I also tried Google’s Gemini AI but found it less effective.
+* [Gemini](https://gemini.google.com/chat) I also tried Google’s Gemini AI but found it less effective.
 * Any other chat ai you like.
 
 ---
@@ -121,8 +121,8 @@ Creating [*Nyarlathotep: A Visual Novel*](https://nyarlathotep.pages.dev/) I use
 - **Simple Script Language:** The Ren'Py scripting language is straightforward and easy for our LLM to generate, meaning generated code required no tweaks.  
 
 **Alternatives:** 
-* Godot with (Dialogic plugin)[https://github.com/dialogic-godot/dialogic]
-* (Pixi-vn)[https://pixi-vn.web.app/]
+* Godot with [Dialogic plugin](https://github.com/dialogic-godot/dialogic)
+* [Pixi-vn](https://pixi-vn.web.app/)
 ---
 
 ### **3. Image Generation AI**  
@@ -133,8 +133,8 @@ Creating [*Nyarlathotep: A Visual Novel*](https://nyarlathotep.pages.dev/) I use
 
 
 **Alternatives:** 
-* (Dall-e)[https://openai.com/index/dall-e-2/]
-* (Midjourney)[https://www.midjourney.com/home]
+* [Dall-e](https://openai.com/index/dall-e-2/)
+* [Midjourney](https://www.midjourney.com/home)
 
 ---
 

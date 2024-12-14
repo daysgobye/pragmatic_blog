@@ -74,11 +74,11 @@ Once the obvious bloatware/pre installed version of things are gone, you can sta
 <details>
 <summary>My Removed apps</summary>
 
- ![removed apps](adb1.png)
-  ![removed apps](adb2.png)
+ ![removed apps](/adb1.png)
+  ![removed apps](/adb2.png)
 
- ![removed apps](adb3.png)
-  ![removed apps](adb4.png)
+ ![removed apps](/adb3.png)
+  ![removed apps](/adb4.png)
 
 
 </details>
